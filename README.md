@@ -134,8 +134,7 @@ Físico com experiência em modelagem computacional de sistemas quânticos e apa
    _Univerisdade de São Paulo (USP), Brasil_ (2025–*em andamento*)
 
 - **Mestrado em Física**  
-  _Univerisdade de São Paulo (USP), Brasil_ (2024–2026)
-  **Dissertação**: Em andamento    
+  _Univerisdade de São Paulo (USP), Brasil_ (2024–2026)  
   **Orientador**: Prof. Diogo de Oliveira Soares Pinto
   
 - **Bacharelado em Física**  
