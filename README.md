@@ -147,16 +147,6 @@ Físico com experiência em modelagem computacional de sistemas quânticos e apa
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marinopl/Marinopl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marinopl/Marinopl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Marinopl/Marinopl/output/github-snake.svg" />
-</picture>
-</div>
-<hr/>
-
 <img 
   alt="GitHub Stats" 
   height="150em" 
@@ -168,4 +158,3 @@ Físico com experiência em modelagem computacional de sistemas quânticos e apa
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinopl&theme=gruvbox&layout=compact&custom_title=Languages&langs_count=9&cache_bust=12345" 
 />
 </p> 
----
