@@ -142,18 +142,3 @@ Físico com experiência em modelagem computacional de sistemas quânticos e apa
   **TCC**: [Cálculo de espectro de fotoemissão por grupo de renormalização no espaço real.](https://github.com/Marinopl/eNRG-XPS)   
   **Orientador**: Prof. Luiz Nunes de Oliveira 
 
----
-
-## 📈 GitHub Statistics
-
-<img 
-  alt="GitHub Stats" 
-  height="150em" 
-  src="https://github-readme-stats.vercel.app/api?username=Marinopl&show_icons=true&theme=gruvbox&include_all_commits=true&locale=en"
-/>
-<img 
-  alt="Top Languages" 
-  height="150em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinopl&theme=gruvbox&layout=compact&custom_title=Languages&langs_count=9&cache_bust=12345" 
-/>
-</p> 
