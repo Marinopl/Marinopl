@@ -59,7 +59,7 @@ My interests include predictive modeling, exploratory data analysis, time series
 
 ## 💼 Experience
 
-**Data Science Freelancer** — Casa das Antenas SJRP *(2026 – Present)*
+**Data Science Freelancer** — *(2026 – Present)*
 
 - Revenue and demand forecasting using Machine Learning and Time Series.
 - Development of data pipelines for data collection, preprocessing and modeling.
@@ -69,18 +69,8 @@ My interests include predictive modeling, exploratory data analysis, time series
 
 ## 🎓 Education
 
-- **MBA in Data Science & Analytics** — University of São Paulo (USP) *(2025 – Present)*
-- **M.Sc. in Theoretical Physics** — University of São Paulo (USP) *(2024 – 2026)*
-- **B.Sc. in Physics** — University of São Paulo (USP) *(2019 – 2023)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marinopl&show_icons=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinopl&layout=compact"/>
+- **MBA in Data Science & Analytics** — University of São Paulo (USP) *(03/2025 – Present)*
+- **M.Sc. in Theoretical Physics** — University of São Paulo (USP) *(02/2024 – 02/2026)*
+- **B.Sc. in Physics** — University of São Paulo (USP) *(02/2019 – 07/2023)*
 
 </p>
