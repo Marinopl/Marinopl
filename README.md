@@ -1,144 +1,280 @@
-<!-- Centered Name -->
-<h1 align="center" style="margin-bottom: 0;">Marino Paiva Lenzarini</h1>
+<!-- ============================= -->
+<!-- HEADER -->
+<!-- ============================= -->
 
-<!-- Centered Subtitle -->
-<p align="center" style="margin-top: 0; margin-bottom: 0;">
-  <strong><code> Mestre em Física Teórica | MBA em Ciência de Dados</code></strong>
+<h1 align="center">Marino Paiva Lenzarini</h1>
+
+<p align="center">
+<strong>Data Scientist | Machine Learning | Python | SQL | Business Intelligence</strong>
 </p>
 
-Físico com experiência em modelagem computacional de sistemas quânticos e apaixonado por Ciência de Dados. Tenho curiosidade constante e gosto de estudar novas ferramentas e técnicas para entender como dados podem ser analisados e aplicados negócios.
-
----
-<p align="center" style="display: flex; gap: 15px;">
-    <a href="mailto:marino.lenzarini99@gmail.com">
-        <img 
-            alt="gmail" 
-            title="Contact me" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge&labelColor=FF7043&color=FF5722"
-        /> 
-    </a>
-    <a href="https://www.linkedin.com/in/marinolenzarini/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-1E6AE1.svg?logo=linkedin&style=for-the-badge&logoColor=ffffff&labelColor=0077B5&color=006C94"
-        /> 
-    </a> 
-    <a href="https://scholar.google.com.br/citations?user=4Qo0aEcAAAAJ&hl=pt-BR&authuser=1">
-        <img 
-            alt="Google Scholar" 
-            title="Google Scholar" 
-            src="https://custom-icon-badges.demolab.com/badge/Scholar-8B31CE.svg?logo=googlescholar&style=for-the-badge&logoColor=ffffff&labelColor=4285F4&color=1C64F2"
-        />
-    </a>
+<p align="center">
+M.Sc. in Theoretical Physics • MBA in Data Science & Analytics (USP)
 </p>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 👋 About Me
 
-- **Programação e Análise de Dados**  
-  <img 
-    alt="Python" 
-    title="Python" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="SQL" 
-    title="SQL" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Power BI" 
-    title="Power BI" 
-    src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Jupyter" 
-    title="Jupyter Notebook" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="VS Code" 
-    title="Visual Studio Code" 
-    src="https://code.visualstudio.com/assets/images/code-stable.png" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
+I'm a **Data Scientist** with a strong quantitative background in Physics and experience developing analytical solutions using **Python, SQL, Statistics and Machine Learning**.
 
-- **Machine Learning e Estatística**  
-  <img 
-    alt="scikit-learn" 
-    title="scikit-learn" 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="pandas" 
-    title="pandas" 
-    src="https://pandas.pydata.org/static/img/pandas_mark.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="NumPy" 
-    title="NumPy" 
-    src="https://numpy.org/images/logo.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Matplotlib" 
-    title="Matplotlib" 
-    src="https://matplotlib.org/_static/images/logo2.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
+My interests include predictive modeling, exploratory data analysis, feature engineering, forecasting, Business Intelligence and Deep Learning. I enjoy transforming raw data into actionable insights and building end-to-end data science solutions.
 
-- **Controle de Versão e Colaboração**  
-  <img 
-    alt="Git" 
-    title="Git" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="GitHub" 
-    title="GitHub" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    width="40px" 
-    style="margin-right: 10px;" 
-  />
-  <img 
-    alt="Overleaf" 
-    title="Overleaf" 
-    src="https://images.ctfassets.net/nrgyaltdicpt/6gsvc5Ogjmu04I4Miu0uGg/cb1d4391717d2ab8d5e42ede6fb0eef1/overleaf_wide_colour_light_bg.png" 
-    width="70px" 
-    style="margin-right: 10px;" 
-  />
+Currently, I'm pursuing an **MBA in Data Science & Analytics** at the **University of São Paulo (USP)** while developing projects focused on Machine Learning, Time Series Forecasting, SQL, Power BI and Artificial Intelligence.
 
 ---
 
-## 🎓 Formação Acadêmica
-- **MBA em Ciência e Análise de Dados**  
-   _Univerisdade de São Paulo (USP), Brasil_ (2025–*em andamento*)
+<p align="center">
 
-- **Mestrado em Física**  
-  _Univerisdade de São Paulo (USP), Brasil_ (2024–2026)  
-  **Orientador**: Prof. Diogo de Oliveira Soares Pinto
-  
-- **Bacharelado em Física**  
-  _Univerisdade de São Paulo (USP), Brasil_ (2019–2023)  
-  **TCC**: [Cálculo de espectro de fotoemissão por grupo de renormalização no espaço real.](https://github.com/Marinopl/eNRG-XPS)   
-  **Orientador**: Prof. Luiz Nunes de Oliveira 
+<a href="mailto:marino.lenzarini99@gmail.com">
+<img src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail&style=for-the-badge"/>
+</a>
 
+<a href="https://www.linkedin.com/in/marinolenzarini/">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Marinopl">
+<img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 House Prices Prediction using Machine Learning
+
+**Repository**
+
+https://github.com/Marinopl/House-Prices-ML
+
+**Highlights**
+
+- End-to-end Data Science pipeline
+- Dataset with over **11,600** rental properties
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Cross Validation
+- Data Leakage prevention
+- Comparison of four regression models
+- MAE, RMSE and R² evaluation metrics
+
+**Technologies**
+
+Python • Pandas • Scikit-Learn • XGBoost • Git
+
+---
+
+## 📈 Sales Forecasting
+
+Forecasting project focused on revenue prediction using statistical models and Machine Learning.
+
+**Highlights**
+
+- Time Series Forecasting
+- ARIMA
+- SARIMA
+- Holt-Winters
+- XGBoost
+- Feature Engineering
+- Business KPIs
+
+---
+
+## 🛒 E-commerce Sales Analytics
+
+**Repository**
+
+https://github.com/Marinopl/e-commerce-perifericos-pc
+
+**Highlights**
+
+- Relational database with 6 tables
+- SQL queries using JOIN, GROUP BY and ORDER BY
+- Power BI Dashboard
+- DAX Measures
+- 5 Business KPIs
+- 6 Interactive dashboards
+
+**Technologies**
+
+MySQL • SQL • Power BI • Git
+
+---
+
+## 🔊 Environmental Sound Classification
+
+Deep Learning project for environmental sound classification.
+
+**Highlights**
+
+- PyTorch
+- CNN
+- MLP
+- Hyperparameter Optimization
+- Audio Preprocessing
+
+---
+
+## 🎙️ Speech Enhancement
+
+Deep Learning project focused on speech enhancement in noisy environments.
+
+**Highlights**
+
+- Speech Processing
+- Deep Learning
+- PyTorch
+- Noise Reduction
+- Signal Processing
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+Python • SQL
+
+---
+
+## Data Science
+
+<p>
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="45"/>
+<img src="https://numpy.org/images/logo.svg" width="45"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+</p>
+
+Pandas • NumPy • SciPy • Matplotlib • Seaborn
+
+---
+
+## Machine Learning
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
+
+Scikit-Learn
+
+- Random Forest
+- XGBoost
+- Cross Validation
+- Feature Engineering
+- Model Evaluation
+
+---
+
+## Deep Learning
+
+PyTorch
+
+---
+
+## Business Intelligence
+
+Power BI
+
+MySQL
+
+DAX
+
+KPIs
+
+---
+
+## Tools
+
+Git
+
+GitHub
+
+Jupyter Notebook
+
+VS Code
+
+---
+
+# 💼 Experience
+
+## Data Science Freelancer
+
+**Casa das Antenas SJRP**
+
+- Revenue Forecasting
+- Demand Forecasting
+- Python
+- Machine Learning
+- Data Pipelines
+- Business KPIs
+
+---
+
+## Physics & Mathematics Tutor
+
+Independent Instructor
+
+- Teaching Physics and Mathematics
+- Educational Content Development
+- Problem Solving
+- Communication Skills
+
+---
+
+# 🎓 Education
+
+### MBA in Data Science & Analytics
+
+**University of São Paulo (USP)**
+
+2025 – Present
+
+---
+
+### M.Sc. in Theoretical Physics
+
+**University of São Paulo (USP)**
+
+2024 – 2026
+
+---
+
+### B.Sc. in Physics
+
+**University of São Paulo (USP)**
+
+2019 – 2023
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marinopl&show_icons=true&theme=default"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinopl&layout=compact&theme=default"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Time Series Forecasting
+- Deep Learning
+- Large Language Models (LLMs)
+- Generative AI
+- MLOps
+
+---
+
+> *"Turning data into insights through statistics, machine learning and analytical thinking."*
