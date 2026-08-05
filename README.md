@@ -39,9 +39,7 @@ My interests include predictive modeling, exploratory data analysis, time series
 | Project | Description | Technologies |
 |:---------|:------------|:-------------|
 | 🏠 **[House Prices ML](https://github.com/Marinopl/House-Prices-ML)** | End-to-end Machine Learning pipeline for rental price prediction using more than **11,600** properties from São Paulo. | Python • Pandas • Scikit-Learn • XGBoost |
-| 📈 **Sales Forecasting** *(Coming Soon)* | Revenue forecasting using statistical models and Machine Learning for business decision support. | Python • ARIMA • SARIMA • XGBoost |
 | 🛒 **[E-commerce Analytics](https://github.com/Marinopl/e-commerce-perifericos-pc)** | Business Intelligence project using SQL and Power BI with relational database, KPIs and interactive dashboards. | MySQL • SQL • Power BI |
-| 🔊 **Environmental Sound Classification** *(Coming Soon)* | Deep Learning models (MLP and CNN) for environmental sound classification. | Python • PyTorch |
 
 ---
 
