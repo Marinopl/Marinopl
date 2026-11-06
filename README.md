@@ -14,7 +14,7 @@ M.Sc. in Theoretical Physics • MBA in Data Science & Analytics (USP)
 
 Data Scientist with a strong quantitative background in Physics and experience developing analytical solutions using **Python, SQL, Statistics and Machine Learning**. I combine academic research with practical data projects to build reliable models, forecasts and analytical tools.
 
-My interests include predictive modeling, exploratory data analysis, time series forecasting, Business Intelligence, computational physics and Deep Learning. I enjoy transforming complex data into actionable insights and reproducible solutions.
+My interests include predictive modeling, exploratory data analysis, time series forecasting, digital signal processing, computational physics and Deep Learning. I enjoy transforming complex data into actionable insights and reproducible solutions.
 
 <p align="center">
 
@@ -68,7 +68,7 @@ My academic projects connect computational physics, numerical methods and data s
 
 ## 💼 Experience
 
-**Data Science Freelancer** — *(2026 – Present)*
+**Data Science Freelancer** — *(March 2026 - November 2026)*
 
 - Revenue and demand forecasting using Machine Learning and Time Series.
 - Development of data pipelines for data collection, preprocessing and modeling.
