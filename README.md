@@ -1,7 +1,7 @@
 <h1 align="center">Marino Paiva Lenzarini</h1>
 
 <p align="center">
-<strong>Data Scientist | Machine Learning | Python | SQL</strong>
+<strong>Data Scientist | Machine Learning | Python | SQL | Time Series</strong>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@ M.Sc. in Theoretical Physics • MBA in Data Science & Analytics (USP)
 
 ## 👋 About Me
 
-Data Scientist with a strong quantitative background in Physics and experience developing analytical solutions using **Python, SQL, Statistics and Machine Learning**.
+Data Scientist with a strong quantitative background in Physics and experience developing analytical solutions using **Python, SQL, Statistics and Machine Learning**. I combine academic research with practical data projects to build reliable models, forecasts and analytical tools.
 
-My interests include predictive modeling, exploratory data analysis, time series forecasting, Business Intelligence and Deep Learning. I enjoy transforming data into insights through statistical analysis and machine learning models.
+My interests include predictive modeling, exploratory data analysis, time series forecasting, Business Intelligence, computational physics and Deep Learning. I enjoy transforming complex data into actionable insights and reproducible solutions.
 
 <p align="center">
 
@@ -31,6 +31,17 @@ My interests include predictive modeling, exploratory data analysis, time series
 </a>
 
 </p>
+
+---
+
+## 🎓 Academic Career
+
+My academic projects connect computational physics, numerical methods and data science across my undergraduate and MBA studies.
+
+| Academic stage | Project | Description | Technologies |
+|:---------------|:--------|:------------|:-------------|
+| **B.Sc. in Physics** | **[eNRG-XPS](https://github.com/Marinopl/eNRG-XPS)** | Computational tools for calculating XPS-like spectra on a Wilson chain using eNRG-style logarithmic discretization. Developed as part of my undergraduate work at USP. | Python • Numerical Methods • Computational Physics |
+| **MBA in Data Science & Analytics** | **[TimeSeriesAnalysis_MBA-USP](https://github.com/Marinopl/TimeSeriesAnalysis_MBA-USP)** | Sales time-series analysis and forecasting, comparing statistical and machine-learning approaches for revenue and volume prediction. Capstone project at USP/Esalq. | Python • Pandas • ARIMA/SARIMA • Holt-Winters • XGBoost |
 
 ---
 
@@ -70,5 +81,3 @@ My interests include predictive modeling, exploratory data analysis, time series
 - **MBA in Data Science & Analytics** — University of São Paulo (USP) *(03/2025 – Present)*
 - **M.Sc. in Theoretical Physics** — University of São Paulo (USP) *(02/2024 – 02/2026)*
 - **B.Sc. in Physics** — University of São Paulo (USP) *(02/2019 – 07/2023)*
-
-</p>
